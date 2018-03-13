@@ -23,3 +23,6 @@ Modify: nogada@gmail.com
 영문을 한글화하고
 
 수정 버튼 누르고 등록을 누를때 INPUT DATA가 남아있는 버그 수정
+
+데모
+http://www.phpinfo.co.kr/AngularJS-CRUD-PHP-MySQL
